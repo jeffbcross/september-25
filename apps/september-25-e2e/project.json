@@ -1,0 +1,9 @@
+{
+  "name": "september-25-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/september-25-e2e/src",
+  "implicitDependencies": ["september-25"],
+  "// targets": "to see all targets run: nx show project september-25-e2e --web",
+  "targets": {}
+}
